@@ -262,3 +262,12 @@
   color: white;
   font-size: 1.1rem;
 }
+
+.link-movie {
+  li {
+    margin-bottom: 10px;
+    &:hover {
+      color: #003147;
+    }
+  }
+}
